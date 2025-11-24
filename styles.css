@@ -123,12 +123,14 @@ body{
 .menu-category{
     margin-bottom: 3rem;
 }
-.menu-category h3{
-    font-size: 2rem;
+.menu-category summary{
+    font-size: 2.2rem;
+    font-weight: bold;
     margin-bottom: 1rem;
     color: #2c3e50;
     border-bottom: 2px solid #e74c3c;
     padding-bottom: .05rem;
+    cursor:pointer
 }
 .menu-items{
     display: grid;
