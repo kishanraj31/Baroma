@@ -384,8 +384,8 @@ body{
     transition: var(--transition);
 }
 .social-link:hover{
-    background-color: var(--primary-color);
-    color: white
+    background-color: gray;
+    color: white;
 }
 .footer-bottom{
     text-align: center;
